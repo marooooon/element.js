@@ -74,4 +74,3 @@ new Vue({
 ```angular2html
 npm run build
 ```
-
